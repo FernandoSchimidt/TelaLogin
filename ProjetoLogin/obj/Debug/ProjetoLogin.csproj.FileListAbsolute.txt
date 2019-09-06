@@ -1,0 +1,12 @@
+C:\Users\Ferna\source\Login\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\Ferna\source\Login\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\Ferna\source\Login\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\Ferna\source\Login\ProjetoLogin\obj\Debug\ProjetoLogin.csprojAssemblyReference.cache
+C:\Users\Ferna\source\Login\ProjetoLogin\obj\Debug\ProjetoLogin.Form1.resources
+C:\Users\Ferna\source\Login\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+C:\Users\Ferna\source\Login\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+C:\Users\Ferna\source\Login\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Ferna\source\Login\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\Ferna\source\Login\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
+C:\Users\Ferna\source\Login\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.BemVindo.resources
+C:\Users\Ferna\source\Login\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadastreSe.resources
